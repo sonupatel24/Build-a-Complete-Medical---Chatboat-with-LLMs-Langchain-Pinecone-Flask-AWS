@@ -36,14 +36,12 @@ python store_index.py
 
 # Finally run the following command
 python app.py
+
+
 Now,
-
 open up localhost:
-Techstack Used:
 
-# techstack used
-
-
+#Techstack Used:
 Python
 LangChain
 Flask
