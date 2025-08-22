@@ -5,7 +5,7 @@
 Clone the repo 
 
 ````bash
-git clonehttps://github.com/sonupatel24/Build-a-Complete-Medical---Chatboat-with-LLMs-Langchain-Pinecone-Flask-AWS.git
+git clonehttps://github.com/sonupatel24/Build-a-Complete-Medical---Chatbot-with-LLMs-Langchain-Pinecone-Flask-AWS.git
  ````
 
 
